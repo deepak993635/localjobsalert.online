@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: localjobsalert.netlify.app
+Token: c12bf71715106be86a88f550ed1bfba94a7a8fbd98137d289424a4319ddde316
